@@ -1,0 +1,103 @@
+## Result Analysis of the Job Promotion Dataset
+
+Below you will see the chances of employees being promoted based on certain criteria.
+
+### Based on Qualification
+
+ - There is a 67.2% chance for you to be promoted if you have a First Degree or HND qualification.
+   
+  
+ - There is a 31.2% chance for you to be promoted if you have a MSc, MBA and PhD qualification.
+
+ - There is a 1.6% chance for you to be promoted if you have a   
+   Non-University Education.
+
+### Based on Gender
+
+ - There is a 68.6% chance for you to be promoted if you are a Male.
+ 
+ - There is a 31.4% chance for you to be promoted if you are a Female.
+
+### Based on Marital Status
+
+ - There is a 81.3% chance for you to be promoted if you are Married.
+
+ - There is a 17.5% chance for you to be promoted if you are Single.
+
+ - There is a 1.2% chance for you to be promoted if you are Not Sure of your Marital Status.
+
+### Based on if you attended a Foreign School
+
+ - There is a 91.6% chance for you to be promoted if you went to a Foreign School one time or the other.
+
+ 
+ - There is a 8.4% chance for you to be promoted if you went to a Foreign School one time or the other.
+
+### Based on the Precious Award
+
+ - There is a 87.7% chance for you to be promoted if you havent gotten a Previous Award
+
+ - There is a 12.3% chance for you to be promoted if you had gotten a Previous Award.
+
+### Based on Year of Recruitment
+
+ - There is a 14% chance for you to be promoted if you were recruited in 2016.
+ 
+ - There is a 13% chance for you to be promoted if you were recruited in 2017.
+
+ - There is a 12% chance for you to be promoted if you were recruited in 2015.
+
+ - There is a 10% chance for you to be promoted if you were recruited in 2014 and 2012.
+
+ - There is a 9% chance for you to be promoted if you were recruited in 2013.
+
+ - There is a 8% chance for you to be promoted if you were recruited in 2018.
+
+ - There is a 6% chance for you to be promoted if you were recruited in 2011.
+
+ - There is a 5% chance for you to be promoted if you were recruited in 2010.
+
+ - There is a 4% chance for you to be promoted if you were recruited in 2009.
+
+ - There is a 2% chance for you to be promoted if you were recruited in 2007 and 2008.
+
+### Based on Recruitment Channel
+
+ - There is a 55.4 chance for you to be promoted if you were recruited through Agency and Others.
+
+ - There is a 41.6 chance for you to be promoted if you were recruited through Direct Internal Process.
+
+ - There is a 3.0% chance for you to be promoted if you were recruited through Referral and you are a Special Candidate.
+
+### Based on Previous Disciplinary Action
+
+ - There is a 99.5 chance for you to be promoted if you have not been placed on one discipline action or another.
+
+ -There is a 0.5 chance for you to be promoted if you have been placed on one discipline action or another.
+
+### Based on Number of Trainings Attended
+
+ - There is a 83.8% chance for you to be promoted if you had attended two trainings.
+ - There is a 12.7% chance for you to be promoted if you had attended three trainings.
+ - There is a 2.8% chance for you to be promoted if you had attended four trainings.
+
+### Based on Your Division within the Company
+
+ - There is a 26.0% chance for you to be promoted if are in Commercial Sales and Marketing Division.
+
+ - There is a 21.7% chance for you to be promoted if are in Customer Support and FIeld Operations Division.
+
+ - There is a 16.4% chance for you to be promoted if are in Information Technology and Solution Support Division.
+
+ - There is a 15.1% chance for you to be promoted if are in Sourcing and Purchasing Division.
+
+ - There is a 10.7% chance for you to be promoted if are in Information and Strategy Division.
+
+ - There is a 4.5% chance for you to be promoted if are in Business Finance Operations Division.
+
+ - There is a 3.0% chance for you to be promoted if are in People/HR Management Division.
+
+ - There is a 1.3% chance for you to be promoted if are in Research and Innovation Division.
+
+ - There is a 1.3% chance for you to be promoted if are in Regulatory and Legal services Division.
+
