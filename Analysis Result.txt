@@ -9,8 +9,7 @@ Below you will see the chances of employees being promoted based on certain crit
   
  - There is a 31.2% chance for you to be promoted if you have a MSc, MBA and PhD qualification.
 
- - There is a 1.6% chance for you to be promoted if you have a   
-   Non-University Education.
+ - There is a 1.6% chance for you to be promoted if you have a Non-University Education.
 
 ### Based on Gender
 
